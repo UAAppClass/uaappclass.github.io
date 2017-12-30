@@ -1,5 +1,6 @@
 ---
 layout: default
+title: JOUR 484
 ---
 
-{% include main.html %}
+{% include intro.html %}
