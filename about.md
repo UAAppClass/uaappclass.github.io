@@ -10,15 +10,15 @@ permalink: /about.html
 
 **Textbook/Reading**:
 
-> HTML5 and JavaScript Web Apps
->> Wesley Hales. O'Reilly Media.
+HTML5 and JavaScript Web Apps  
+_Wesley Hales. O'Reilly Media_  
 
-> Building iPhone Apps with HTML, CSS, and JavaScript
->> Jonathan Stark. O'Reilly Media.
+Building iPhone Apps with HTML, CSS, and JavaScript  
+_Jonathan Stark. O'Reilly Media_  
 
-> Programming for the mobile web
->> Maximilano Firtman. O’Reilly Media
-
+Programming for the mobile web  
+_Maximilano Firtman. O’Reilly Media_  
+  
 **Course Description**: This course will be a hands on, interactive class in which you research, and develop a mobile application, which will perform a social good. You will form teams, develop and pitch an application, and implement web technology to launch your application. By the end of the semester, you and your team will have a working application deployed on the internet. This course will take you from idea to application launch.
 
 Each team member will be responsible for programming and implementing at least one major feature of their mobile applications.
