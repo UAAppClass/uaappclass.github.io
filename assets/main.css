@@ -31,9 +31,12 @@ body {
 }
 
 .postlink {
+  width: 50%;
   border: 1px solid navy;
   margin-bottom: 8px;
+  margin-right: 8px;
   padding: 8px 8px 8px 8px;
+  float: left;
 }
 
 .postlink a {
